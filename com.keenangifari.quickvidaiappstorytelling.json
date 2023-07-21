@@ -5,8 +5,8 @@
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
 
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "make_app_under_maintenance": true
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
     },
 
     "ad_network": [
@@ -58,12 +58,12 @@
 
   "Data": [
     {
-      "id": 3,
-      "name_category": "Reskin",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://imgcdn.oto.com/medium/gallery/exterior/37/2220/suzuki-xl7-12009.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "cat->Reskin"
+      "id": 1,
+      "name_category": "QuickVid AI",
+      "title": "What Is QuickVid",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "As of my last update in September 2021, there is no widely recognized or prominent platform...",
+      "link": "https://keenangifarii.blogspot.com/p/what-is-quickvid.html"
     },
     {
       "id": 4,
