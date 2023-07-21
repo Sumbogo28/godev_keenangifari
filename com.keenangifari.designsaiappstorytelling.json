@@ -1,0 +1,117 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+
+      "make_app_crash_when_app_not_live_at_play_store": true,
+      "make_app_under_maintenance": true
+    },
+
+    "ad_network": [
+      {
+        "name": "adsoff",
+        "value": 1,
+        "min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "off",
+        "banner": "off",
+        "mrec": "-",
+        "inter": "off",
+        "native_ad": "off",
+        "open_ad": "-",
+        "splash_ad": false
+      },
+      {
+        "name": "adsoff",
+        "value": 10,
+
+        "appId_appKey_publisherId_gameId": "off",
+        "banner": "off",
+        "mrec": "-",
+        "inter": "off",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "https://static.republika.co.id/uploads/images/inpicture_slide/suzuki-meluncurkan-new-xl7-hybrid-di-jakarta-kamis_230615223858-389.JPG"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "https://static.republika.co.id/uploads/images/inpicture_slide/suzuki-meluncurkan-new-xl7-hybrid-di-jakarta-kamis_230615223858-389.JPG"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://static.republika.co.id/uploads/images/inpicture_slide/suzuki-meluncurkan-new-xl7-hybrid-di-jakarta-kamis_230615223858-389.JPG"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/37/2220/suzuki-xl7-12009.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "cat->Reskin"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/37/2220/suzuki-xl7-12009.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/37/2220/suzuki-xl7-12009.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/37/2220/suzuki-xl7-12009.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/37/2220/suzuki-xl7-12009.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/37/2220/suzuki-xl7-12009.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/37/2220/suzuki-xl7-12009.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
